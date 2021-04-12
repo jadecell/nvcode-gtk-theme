@@ -1,11 +1,10 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=oomox-NVCode
-Comment=A partially sexual act; when a female (of any species; mostly humanoids) rubs the ears/lobes of a male Ferengi, creating sensual emotions and chemical reactions in the male (and sometimes in the female).
+Name=nvcode-gtk-theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-Name=oomox-NVCode
-GtkTheme=oomox-NVCode
-IconTheme=oomox-NVCode
-MetacityTheme=oomox-NVCode
+Name=nvcode-gtk-theme
+GtkTheme=nvcode-gtk-theme
+IconTheme=nvcode-gtk-theme
+MetacityTheme=nvcode-gtk-theme
