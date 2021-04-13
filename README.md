@@ -1,4 +1,4 @@
-# The NVCode inspired color scheme
+# The NVCode flagship theme inspired color scheme
 
 All of the colors in the theme are based on the [NVCode](https://github.com/ChristianChiarulli/nvcode/) flagship color scheme. The GTK3 theme is not fully complete but most elements are colored.
 
